@@ -1,4 +1,0 @@
-package notification
-
-class TempoNotifactionWorker {
-}
