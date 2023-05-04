@@ -10,4 +10,8 @@
     <string name="menu_home">Home</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
+
+    <string name="notification_channel_name_blue">Blue</string>
+    <string name="notification_channel_name_red">Red</string>
+    <string name="notification_channel_name_white">White</string>
 </resources>
